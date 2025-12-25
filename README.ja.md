@@ -76,10 +76,10 @@
 
 ### 📚 関連リポジトリ
 
-- [`storage-domain`](../storage-domain)
-- [`storage-be`](../storage-be)
-- [`storage-content-processor`](../storage-content-processor)
-- [`storage-fe`](../storage-fe)
+- [`storage-domain`](https://github.com/wiwiewei18/storage-domain/blob/main/README.ja.md)
+- [`storage-be`](https://github.com/wiwiewei18/storage-be/blob/main/README.ja.md)
+- [`storage-content-processor`](https://github.com/wiwiewei18/storage-content-processor/blob/main/README.ja.md)
+- [`storage-fe`](https://github.com/wiwiewei18/storage-fe/blob/main/README.ja.md)
 
 ---
 
